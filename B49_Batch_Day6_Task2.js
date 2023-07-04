@@ -1,5 +1,4 @@
-// Convert the UML diagram to Javascript class. - use number for double
-
+// Convert the UML diagram to Javascript class.
 class Circle {
     constructor(radius, color) {
         this.radius = radius;
